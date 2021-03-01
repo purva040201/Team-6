@@ -1,3 +1,3 @@
 a = int(input("enter value\n"))
 b = int(input())
-print( a+b,a-b)
+print( a+b,a-b,a*b,a//b,a%b)
